@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lista de tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Lista de Tarefas Interativa</h1>
+    </header>
+
+    <main>
+        <section>
+            <form>
+                <label for="task">Nome da tarefa: </label>
+                <input type="text" id="task" placeholder="Escreva uma tarefa...">
+                <button type="button" onclick="adicionar()">Adicionar</button>
+            </form>
+            <div class="pendentes">
+                <h2>Tarefas pendentes</h2>
+                <ul id="tarefasPendentes"></ul>
+            </div>
+
+            <div class="concluidas">
+                <h2>Tarefas Concluídas</h2>
+                <ul id="tarefasConcluidas"></ul>
+            </div>
+        </section>
+    </main>
+
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
