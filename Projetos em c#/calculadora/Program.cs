@@ -1,4 +1,5 @@
-﻿
+﻿using System;
+
 namespace calculadora
 {
     class Program
@@ -21,9 +22,9 @@ namespace calculadora
 
 }
 
-        static void Subtracao(){
-            Console.Clear();
-            co
-        }
+        // static void Subtracao(){
+        //     Console.Clear();
+        //     co
+        // }
     }
 }
