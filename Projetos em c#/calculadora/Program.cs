@@ -2,11 +2,11 @@
 
 namespace calculadora
 {
-    class Program
+    public class Program
     {
-        static void main(string[] aergs)
+        static void Main(string[] args)
         {
-            Soma();
+            Subtracao();
         }
         static void Soma ()
         {
@@ -19,12 +19,23 @@ namespace calculadora
         float resultado = v1 + v2;
         Console.WriteLine(""); //Só para pular uma linha
         Console.WriteLine("o resultado da soma dos 2 numeros é " + resultado);
+        Console.ReadKey();
 
 }
 
-        // static void Subtracao(){
-        //     Console.Clear();
-        //     co
-        // }
+        static void Subtracao(){
+            Console.Clear();
+            Console.WriteLine("digite o primeiro valor: ");
+            float v1 = float.Parse(Console.ReadLine());
+
+            Console.WriteLine("digite o segundo valor: ");
+            float v2 = float.Parse(Console.ReadLine());
+            Console.WriteLine("");
+
+        float resultado = v1 - v2;
+            Console.WriteLine($"o resultado da subtração é {resultado}");
+
+        Console.ReadKey();
+        }
     }
 }
