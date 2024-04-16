@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\bin\Debug\net8.0\Texteditor.exe
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\bin\Debug\net8.0\Texteditor.deps.json
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\bin\Debug\net8.0\Texteditor.runtimeconfig.json
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\bin\Debug\net8.0\Texteditor.dll
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\bin\Debug\net8.0\Texteditor.pdb
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.sourcelink.json
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.dll
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\refint\Texteditor.dll
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.pdb
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\Texteditor.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\Projetos\Projetos em c#\Texteditor\obj\Debug\net8.0\ref\Texteditor.dll
