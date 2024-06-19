@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\CalculoDeIMC\\CalculoDeIMC.csproj": {}
+    "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\Gerenciadorlivro\\Gerenciadorlivro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\CalculoDeIMC\\CalculoDeIMC.csproj": {
+    "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\Gerenciadorlivro\\Gerenciadorlivro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\CalculoDeIMC\\CalculoDeIMC.csproj",
-        "projectName": "CalculoDeIMC",
-        "projectPath": "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\CalculoDeIMC\\CalculoDeIMC.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\Gerenciadorlivro\\Gerenciadorlivro.csproj",
+        "projectName": "Gerenciadorlivro",
+        "projectPath": "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\Gerenciadorlivro\\Gerenciadorlivro.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\CalculoDeIMC\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\OneDrive\\Desktop\\projetos\\Projetos em c#\\Gerenciadorlivro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CalculoDeIMC")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Gerenciadorlivro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbccb3b482595115726c1f3ed522af73cda3eea9")]
-[assembly: System.Reflection.AssemblyProductAttribute("CalculoDeIMC")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CalculoDeIMC")]
+[assembly: System.Reflection.AssemblyProductAttribute("Gerenciadorlivro")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Gerenciadorlivro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

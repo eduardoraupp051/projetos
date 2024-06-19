@@ -1,0 +1,15 @@
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\bin\Debug\net8.0\Gerenciadorlivro.exe
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\bin\Debug\net8.0\Gerenciadorlivro.deps.json
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\bin\Debug\net8.0\Gerenciadorlivro.runtimeconfig.json
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\bin\Debug\net8.0\Gerenciadorlivro.dll
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\bin\Debug\net8.0\Gerenciadorlivro.pdb
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.sourcelink.json
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.dll
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\refint\Gerenciadorlivro.dll
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.pdb
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\Gerenciadorlivro.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Desktop\projetos\Projetos em c#\Gerenciadorlivro\obj\Debug\net8.0\ref\Gerenciadorlivro.dll
